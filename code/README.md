@@ -1,1 +1,1 @@
-### All codes will be publicly available when the paper is officially accepted.
+## These files to be run on JAIST supercomputer (vpcc) with GPU enabled
