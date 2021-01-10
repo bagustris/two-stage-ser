@@ -1,0 +1,6 @@
+This directory contains python and data files 
+for MSP-I+N experiment on LOSO (leaving one scenearios out) scenarios.
+
+
+
+data:   *.npy files used by pyton files in this

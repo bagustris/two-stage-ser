@@ -1,0 +1,32 @@
+### Code for paper:
+Two-stage dimensional emotion recognition by fusing predictions 
+of acoustic and text networks using SVM
+
+First stage: LSTM
+Second stage: SVM
+
+Baselines:
+- LSTM
+- SVM
+
+to investigate:
+IEMOCAP:
+- speech: ser_iemocap.py
+- text: ter_iemocap.py
+- speech + text (SVM): SVM
+
+MSP-IMPROV:
+- speech: ser_improv.py
+- text: ter_improv.py
+- speech+tex (SVM); SVM
+
+All Dataset ()
+- speech: ser_all.py
+- text: ter_all.py
+- speech+text: SVM
+
+Outlier data (labels):
+1. Lower than 1.0: (array([1674, 3427, 7821]),)
+2. More than 5.0: (array([5086, 5093, 5096, 5104]),)
+
+outlier = np.array([1674, 3427, 5086, 5093, 5096, 5104, 7821])
