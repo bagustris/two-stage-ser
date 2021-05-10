@@ -51,7 +51,7 @@ You can download a copy of all the files in this repository by cloning the
 
 or [download a zip archive](https://github.com/bagustris/two-stage-ser/archive/master.zip).
 
-The paper is archived at *https://doi.org/10.1016/j.specom.2020.11.003*
+The paper is archived at *https://doi.org/10.1016/j.specom.2020.11.003*  
 The free version of the paper will be available at *https://dspace.jaist.ac.jp/*
 
 ## Dependencies
