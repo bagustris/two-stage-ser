@@ -7,7 +7,7 @@ Masato Akagi.
 > This is a repository for papers above consisting Python codes, Latex codes, and figure
 > used in the paper.
 
-This paper has been submitted for publication in *Computer Speech and Language*.
+This paper has been publihsed in the Journal *Speech Communication*.
 
 ![](./fig/csl_system.png)
 
