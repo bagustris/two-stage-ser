@@ -48,12 +48,12 @@ See the `README.md` files in each directory for a full description.
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/bagustris/two-state-ser
+    git clone https://github.com/bagustris/two-stage-ser
 
 or [download a zip archive](https://github.com/bagustris/two-stage-ser/archive/master.zip).
 
-A copy of the repository is also archived at *insert DOI here*
-
+The paper is archived at *https://doi.org/10.1016/j.specom.2020.11.003*
+The free version of the paper will be available at *https://dspace.jaist.ac.jp/*
 
 ## Dependencies
 
