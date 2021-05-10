@@ -2,8 +2,7 @@
 
 by
 Bagus Tris Atmaja,
-Masato Akagi,
-etc
+Masato Akagi.
 
 > This is a repository for papers above consisting Python codes, Latex codes, and figure
 > used in the paper.
